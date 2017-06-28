@@ -3,7 +3,7 @@
 //  DLG-1
 //
 //  Created by Detavious Cutts on 6/25/17.
-//  Copyright © 2017 Detavious Cutts. All rights reserved...
+//  Copyright © 2017 Detavious Cutts. All rights reserved...40
 //
 
 import UIKit
@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         
         tapCount = tapCount + 1
         
-        if tapCount >= 10 {
+        if tapCount >= 20 {
             theLabel.text = "you tapped the button ten times"
     
     }
