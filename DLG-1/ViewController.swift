@@ -3,7 +3,7 @@
 //  DLG-1
 //
 //  Created by Detavious Cutts on 6/25/17.
-//  Copyright © 2017 Detavious Cutts. All rights reserved...
+//  Copyright © 2017 Detavious Cutts. All rights reserved.
 //
 
 import UIKit
